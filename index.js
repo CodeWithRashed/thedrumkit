@@ -57,9 +57,12 @@ function playSound (kye) {
   }
 }
 
-function clickAnimation (key) {
-  document.querySelector("." + key).classList.add("pressed");
+
+function clickAnimation (kye) {
+document.querySelector("." + kye).classList.add("pressed");
+  
   setTimeout(function() {
-    document.querySelector("." + key).classList.remove("pressed");
+    document.querySelector("." + kye).classList.remove("pressed");
   }, 100);
 }
+
