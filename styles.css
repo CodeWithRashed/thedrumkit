@@ -9,6 +9,10 @@ h1 {
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 }
+.pressed {
+  transform: scale(0.95);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
 
 footer {
   color: #DBEDF3;
