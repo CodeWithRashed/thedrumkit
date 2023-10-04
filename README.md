@@ -1,3 +1,5 @@
+Live Link : [\[Github\]](https://codewithrashed.github.io/thedrumkit/)
+
 # Drum Kit Project
 
 A simple JavaScript project that simulates a drum kit where you can play different sounds by clicking on the buttons or pressing the keyboard keys.
@@ -14,3 +16,5 @@ HTML
 CSS
 JavaScript
 
+# Learned
+This project help me to learn about keyboard events. How they work? How to implement them!! 
